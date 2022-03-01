@@ -21,6 +21,7 @@ class Dice
       result = @die1 + @die2 
       puts 'Your Result is...'
       show_sum
+      
      
 
       if user_guess == result
